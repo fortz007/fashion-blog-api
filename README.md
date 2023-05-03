@@ -3,7 +3,7 @@ This API provides functionality for a fashion blog where users can create and ma
 
 Technologies Used:
 <li>
-Spring Boot 2.5.0
+Spring Boot 3.0.6
 </li>
 <li>
 Spring Data JPA
@@ -13,6 +13,9 @@ Postgresql
 </li>
 <li>
 Maven
+</li>
+<li>
+Tomcat
 </li>
 
 <h2>Conclusion</h2>
