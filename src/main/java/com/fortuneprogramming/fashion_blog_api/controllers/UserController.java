@@ -19,6 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 @RequestMapping("/api/v1/fashion-blog")
 public class UserController {
+
     private final UserService userService;
 
     @PostMapping("/signup")
