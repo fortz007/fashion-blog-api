@@ -1,4 +1,4 @@
-package com.fortuneprogramming.fashion_blog_api.models;
+package com.fortuneprogramming.fashion_blog_api.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
